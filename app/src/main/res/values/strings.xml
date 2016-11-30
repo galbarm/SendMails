@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SendMails</string>
+    <string name="user">user</string>
+    <string name="password">1234</string>
+    <string name="from">from@gmail.com</string>
+    <string name="destination">destination@gmail.com</string>
+    <string name="subject">subject</string>
+    <string name="body">body</string>
+</resources>
