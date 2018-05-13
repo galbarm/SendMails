@@ -87,7 +87,7 @@ public class SendMailsService extends JobService {
                 LocalDateTime time = LocalDateTime.now(timezone);
                 preferences.edit().putString("lastMailTime", time.toString()).apply();
 
-                return true;
+                return null;
             }
 
             @Override
